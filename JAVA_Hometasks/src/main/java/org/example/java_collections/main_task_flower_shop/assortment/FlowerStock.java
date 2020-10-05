@@ -1,10 +1,6 @@
 package org.example.java_collections.main_task_flower_shop.assortment;
 
 public enum FlowerStock {
-    /**
-     * TODO
-     * add values for flowers from some file
-     */
     RED_TULIP(10.50,45.95, 30.00, 25.00, 20.10),
     YELLOW_TULIP( 10.50,75.95, 71.20, 27.70, 22.30),
     RED_CARNATION(5.25,82.41, 71.00, 17.12, 14.13),
